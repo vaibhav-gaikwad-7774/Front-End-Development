@@ -1,1 +1,1 @@
-<img src="output of registration box.png" width="200" height="200">
+<img src="output of registration box.png">
